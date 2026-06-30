@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: demo-ae
+  security:
+    oauth2:
+        resourceserver:
+          jwt:
+            issuer-uri: htpp://conito-idp.us-esat-1.amazon.com/us-east-1_yzwALI2A
